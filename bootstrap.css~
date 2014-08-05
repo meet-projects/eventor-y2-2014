@@ -180,12 +180,20 @@ optgroup {
   font-weight: bold;
 }
 table {
+<<<<<<< HEAD
   border-spacing: 3;
+=======
+  border-spacing: 0;
+>>>>>>> 4df7ccf85b838f551f3a255d40f385a102bf7219
   border-collapse: collapse;
 }
 td,
 th {
+<<<<<<< HEAD
   padding: 3;
+=======
+  padding: 0;
+>>>>>>> 4df7ccf85b838f551f3a255d40f385a102bf7219
 }
 @media print {
   * {

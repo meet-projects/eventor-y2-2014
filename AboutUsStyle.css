@@ -1,0 +1,18 @@
+body {
+	background-image: url(BackG.jpg);
+}
+
+#title {
+	color: blue;
+	font-family: "purisa";
+	text-align: center;
+
+}
+
+#text {
+	border-style: double;
+	border-width: 5px;
+	position: absolute;
+	left: 50px;
+	top: 200px;
+}
