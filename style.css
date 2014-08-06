@@ -1,23 +1,45 @@
 h1{
 	color: #0BA6AF;
+	font-family: "Roboto-Light";
 	text-align: center;
 	font-size: 60px;
+	position: absolute;
+	left: 300px;
+	top: 100px;
 }
-p {
+
+.large-6columns {
+	position: absolute;
 	text-align: center;
-	font-family:"Times New Roman";
-	color: #CDB79E;
+	left: 30px;
+	top: 225px;
+	font-family: "Roboto-Thin";
+	font-size: 15px;
+	font-weight: bold;
+	border-style: dashed;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
-img{
-	display:block;
-	width: 425px;
-	height: 282px;
+
+
+#firstImg{
+	position: absolute;
+	left: 700px;
+	top: 200px;
+	width: 475px;
+	height: 332px;
 	margin-left: auto;
 	margin-right:auto;
 }
-h5{
-	text-align: center;
+
+#secondImg {
+		position: absolute;
+		left: 700px;
+		top: 500px;
 }
+
 body {
 	background-image: url(BackG.jpg);
 }
