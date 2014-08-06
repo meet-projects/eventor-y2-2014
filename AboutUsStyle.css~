@@ -3,18 +3,23 @@ body {
 }
 
 #title {
-	color: blue;
-	font-family: "purisa";
-	position: absolute;
-	left: 600px;
-	top: 25px;
+	color: #0B1D76;
+	font-family: "Courier 10 Pitch";
+	font-size: 100px;
+	text-align: center;
 
 }
 
 #text {
 	border-style: double;
-	border-width: 5px;
+	font-family: "Courier 10 Pitch";
+	font-size: 25px;
+	border-width: 7px;
 	position: absolute;
-	left: 50px;
-	top: 200px;
+	left: 20px;
+	top: 150px;
+	margin-left: 30px;
+	margin-right: 50px;
+	padding-left: 15px;
+	padding-right: 10px;
 }
