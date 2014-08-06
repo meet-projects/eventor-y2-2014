@@ -180,12 +180,12 @@ optgroup {
   font-weight: bold;
 }
 table {
-  border-spacing: 3;
+  border-spacing: 0;
   border-collapse: collapse;
 }
 td,
 th {
-  padding: 3;
+  padding: 0;
 }
 @media print {
   * {
@@ -4214,7 +4214,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #fff;
-  background-color: #980808;
+  background-color: #080808;
 }
 .navbar-inverse .navbar-nav > .disabled > a,
 .navbar-inverse .navbar-nav > .disabled > a:hover,
