@@ -2,16 +2,16 @@ body
 {
 	background-image:url(BackG.jpg);		
 } 
-ul#menu, ul#menu ul.sub-menu {
+ul.menu, ul.menu ul.sub-menu {
     padding:1;
     margin: 0;
 }
-ul#menu li, ul#menu ul.sub-menu li {
+ul.menu li, ul.menu ul.sub-menu li {
     list-style-type: none;
     display: inline-block;
 }
 /*Link Appearance*/
-ul#menu li a, ul#menu li ul.sub-menu li a {
+ul.menu li a, ul.menu li ul.sub-menu li a {
     text-decoration: none;
     color: #fff;
     background: #666;
@@ -19,31 +19,51 @@ ul#menu li a, ul#menu li ul.sub-menu li a {
     display:inline-block;
 }
 /*Make the parent of sub-menu relative*/
-ul#menu li {
+ul.menu li {
     position: relative;
 }
 /*sub menu*/
-ul#menu li ul.sub-menu {
+ul.menu li ul.sub-menu {
     display:none;
     position: absolute;
     top: 30px;
     left: 0;
     width: 100px;
 }
-ul#menu li:hover ul.sub-menu {
+ul.menu li:hover ul.sub-menu {
     display:block;
 	background-color:blue;
 }
 .menu{
 	 list-style-type: none; 
 }
-#menu { 
+.menu { 
 display:inline-block; 
 }
 
-h2{
-	margin-right: 100px;
-	color:#000000;
-	font-size: 40px;
-	font-family: Comic Sans MS, cursive, sans-seri
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-Thin.ttf);
+}
+
+
+#desc{
+	width: 265px;
+	height: 150px;
+	margin-left: 500
+}
+.font{
+	color: black;
+	font-family: "Roboto";
+}
+.move{
+	margin-left: 500px;
+}
+.special{
+	margin-left: 250;
+}
+#create{
+	width:90px;
+	height:60px;
+	margin-left:100px;
 }

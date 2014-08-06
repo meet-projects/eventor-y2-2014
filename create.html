@@ -7,16 +7,18 @@
 		<link rel="stylesheet" type="text/css" href="style_create.css" />
 	</head>
 	<body>
-		<h2> Create an event! </h2>
-		<hr> 
+		<h1 class="font"> EVENTOR </h1>
+		<h3 class="font"> Create and Relate </h3>
 		<br>
+		<br>
+		<h2 class="move font"> Create an event! </h2>
 		<form action= "">
-			<p> Name of event  
-			<span> <input type= "text" name= event_name> </span> </p>
+			<p class="font move" > Name of event  
+			<span> <input type= "text" name= event_name class="special"> </span> </p>
 		</form>
-		<p> Date 
+		<p class="font move"> Date 
 		<div> 
-		<form action= "">
+		<form action= "" class="move">
 			<select>
   				<option value="1">1</option>
   				<option value="2">2</option>
@@ -74,23 +76,23 @@
 			</span>	
 		</form>
 		</p>
-		<form action= "">
-			<p> Time 
-			<span> <input type= "text" name= event_name> </span> 
+		<form action= "" class="move">
+			<p class="font"> Time 
+			<span> <input type= "text" name= event_time id="time"> </span> 
 			<span> 
 				<select>
-					<option value="am">AM</option>
-					<option value="pm">PM</option>
+					<option value="am" class="font">AM</option>
+					<option value="pm" class="font">PM</option>
 				</select>
 			</p>
 		</form>
-		<p> Description
-		<form action="">
-			<textarea name= "description"> </textarea>
+		<p class="font move"> Description
+		<form action="" class="move">
+			<textarea name= "description" class="special" id="desc"> </textarea>
 		</form> 
 		</p>
-		<form action= "success.html">
-			<input type= "submit" value= "Create!">
+		<form action= "success.html" class="move">
+			<input type= "submit" value= "Create!" class="font" id="create">
 		</form>	
 	</body>
 </html>
