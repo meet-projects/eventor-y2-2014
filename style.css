@@ -1,5 +1,7 @@
 h1{
-	color: #66CDAA;
+	color: #0BA6AF;
+	text-align: center;
+	font-size: 60px;
 }
 p {
 	text-align: center;
@@ -16,4 +18,8 @@ img{
 h5{
 	text-align: center;
 }
-body {background-color: #FEF5CA;}
+body {
+	background-image: url(BackG.jpg);
+}
+
+
