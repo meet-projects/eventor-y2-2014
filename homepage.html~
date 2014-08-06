@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+	<head>
+<<<<<<< HEAD
+		<title> Eventor Homepage </title>
+=======
+		<title> Homepage </title>
+<<<<<<< HEAD:homepage.html~
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+=======
+		<link rel="stylesheet" type="text/css" href="style.css"
+>>>>>>> d71bec1efaf3989027e20c6c1dd31fcfc0fccd13
+>>>>>>> 71097bbc801562b60089990af09ebb9c5b8d68bc:homepage.html
+	</head>
+	<Body>
+	     
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="javascript:void(o)">eventor</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="javascript:void(o)">Create An Event</a></li>
+        <li><a href="javascript:void(o)">All Events</a></li>
+	<li><a href="javascript:void(o)">Sigh-Up</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  <div class="row">
+    <div class="large-12 columns">
+      <div class="nav-bar right">
+       <ul class="button-group">
+<<<<<<< HEAD:homepage.html~
+        </ul>
+      </div>
+      <h1>eventor:<small>create and relate.</small></h1>
+=======
+<<<<<<< HEAD
+         <li><a href="#" class="button">Create an event</a></li>
+         <li><a href="#" class="button">List of events</a></li>
+         <li><a href="#" class="button">About us</a></li>
+        </ul>
+      </div>
+      <h1>EVENTOR<small>
+		Create and Relate.</small></h1>
+=======
+         <li><a href="#" class="button" >create an event</a></li>
+         <li><a href="#" class="button">list of events</a></li>
+         <li><a href="#" class="button">about us</a></li>
+        </ul>
+      </div>
+      <h1>eventor:<small>create and relate.</small></h1>
+>>>>>>> d71bec1efaf3989027e20c6c1dd31fcfc0fccd13
+>>>>>>> 71097bbc801562b60089990af09ebb9c5b8d68bc:homepage.html
+      <hr/>
+    </div>
+  </div>
+  <div class="row">
+ 
+     
+    <div class="large-9 columns" role="content">
+ 
+      <article>
+ 
+<<<<<<< HEAD:homepage.html~
+=======
+<<<<<<< HEAD
+        <h3><a href="#">Eventor</a></h3>
+ 
+=======
+>>>>>>> d71bec1efaf3989027e20c6c1dd31fcfc0fccd13
+>>>>>>> 71097bbc801562b60089990af09ebb9c5b8d68bc:homepage.html
+        <div class="row">
+          <div class="large-6 columns">
+            <p>EVENTOR is an event planner created specifically for hosting events in times of crisis.</p>
+            <p>We wish to help people organize events effeciently, fast, and inexpensively! </p>
+          </div>
+          <div class="large-6 columns">
+            <img src="http://www.peacecorpsconnect.org/wordpress/wp-content/uploads/2010/10/iStock_cut-outs-holding-hands.jpg"/>
+          </div>
+        </div>
+ 
+        <p>add text here.</p>
+ 
+        <p>add text here.</p>
+ 
+      </article>
+ 
+      <hr/>
+ 
+      <article>
+ 
+<<<<<<< HEAD:homepage.html~
+=======
+<<<<<<< HEAD
+        <h3><a href="#">Blog Post Title</a></h3>
+        <h6>A website by our meet group.</h6>
+=======
+>>>>>>> 71097bbc801562b60089990af09ebb9c5b8d68bc:homepage.html
+        <h6>a website by our meet group.</h6>
+>>>>>>> d71bec1efaf3989027e20c6c1dd31fcfc0fccd13
+ 
+        <div class="row">
+          <div class="large-6 columns">
+            <p>add text.</p>
+            <p>add text.</p>
+          </div>
+          <div class="large-6 columns">
+            <img src="http://ioneelev8.files.wordpress.com/2011/04/people_helping1.jpg"/>
+          </div>
+        </div>
+ 
+        <p>add text.</p>
+ 
+        <p>write text text.</p>
+ 
+      </article>
+ 
+    </div>
+    <aside class="large-3 columns">
+ 
+<<<<<<< HEAD:homepage.html~
+      <h5>Categories</h5>
+      <p>add text here</p>
+=======
+<<<<<<< HEAD
+      <h5>Navigate</h5>
+      <ul class="side-nav">
+        <li><a href="#">Create an event</a></li>
+        <li><a href="#">All events</a></li>
+        <li><a href="#">About us</a></li>
+      </ul>
+ 
+=======
+      <h5>Categories</h5>
+      <p>add text here</p>
+>>>>>>> d71bec1efaf3989027e20c6c1dd31fcfc0fccd13
+>>>>>>> 71097bbc801562b60089990af09ebb9c5b8d68bc:homepage.html
+      <div class="panel">
+        <h5>Featured</h5>
+        <p>add text here.</p>
+      </div>
+ 
+    </aside>
+ 
+     
+  </div>
+  <footer class="row">
+    <div class="large-12 columns">
+      <hr/>
+      <div class="row">
+        <div class="large-6 columns">
+        </div>
+        <div class="large-6 columns">
+        </div>
+      </div>
+    </div>
+  </footer>
+    
+	</body>
+<html>
