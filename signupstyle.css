@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-Thin.ttf);
+}
+
+h2{
+	
+}
+.box{
+	width:233px
+}
+
+#address{
+	width:230px
+}
+#email{
+	width:203px
+}
+.form{
+	margin-left:500px
+}
+
+#h2{
+	margin-left:500px
+}
+
+
+
+#h3{
+	margin-left:430px
+}
+
+#sign{
+	margin-left:220px
+}
+
+.font{
+	font-family: "Roboto";
+}
+
+.beg{
+	margin-left: 20px
+}
