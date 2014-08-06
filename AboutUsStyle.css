@@ -5,7 +5,9 @@ body {
 #title {
 	color: blue;
 	font-family: "purisa";
-	text-align: center;
+	position: absolute;
+	left: 550px;
+	top: 25px;
 
 }
 

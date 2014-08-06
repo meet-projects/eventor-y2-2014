@@ -4,8 +4,10 @@ body {
 
 #title {
 	color: blue;
-	font-family: "purisa
-	text-align: center
+	font-family: "purisa";
+	position: absolute;
+	left: 600px;
+	top: 25px;
 
 }
 
