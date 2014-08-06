@@ -1,0 +1,19 @@
+h1{
+	color: #66CDAA;
+}
+p {
+	text-align: center;
+	font-family:"Times New Roman";
+	color: #CDB79E;
+}
+img{
+	display:block;
+	width: 425px;
+	height: 282px;
+	margin-left: auto;
+	margin-right:auto;
+}
+h5{
+	text-align: center;
+}
+body {background-color: #FEF5CA;}
