@@ -5,14 +5,71 @@
 				Eventor
 			</title>
 			<link rel="stylesheet" type="text/css" href="AboutUsStyle.css"/>
-			<link rel="stylesheet" type="text/css" href="bootstrap.css"/>
+			<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
 		</head>
 		<body>
+			<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link</a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>		
+			
 			<h1 id="title"> About Us </h1>
 			<div><p id="text">			
-				Write here some made up stuff about the website like whay we made it and so on...
-			</p></div>		
-
+				EVENTOR was built during the crisis that hit upon our state during Summer 2014. As a result of the 					catastrophic situation, various businesses, small companies and individual workers have found themselves in 					financial crisises. In order to aid those who have been affected by the situation, many events have been 					hosted and we saw there was much will to help.
+				We wanted to create a platform for individuals like these, in which they would be able to create, share and 					host events that aim to help those in need. We hope our website assists hosts to create events for those 					affected in future times of crisis.
+				<br><br>
+				Our team consists of 5 members, from both Israeli and Palestinian nationalities; Omar Nashef, Eli Brown, Ophir 					Edelstein, Leen Ali and Shir Somech. We are MEET Y2 students living in Jerusalem, and are between the ages of 					15-17. 
+			</p></div>
+		
 		</body>
 	</html>
 
