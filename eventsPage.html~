@@ -1,24 +1,66 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="bootstrap.css" >
+		
+		<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+		<link href="EventsP.css" rel="stylesheet" type="text/css">
+    		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    		<script src="js/bootstrap.min.js"></script>
 		
 	</head>
 		
 	<body>
-		<table border=5 class="glyphicon">
-			<tr>
-				<td>
-				<center> RandomEvent </center>
-				</td>
-			</tr>
-			<tr>
-				<td>
-				EventDiscription
-				</td>
-			</tr>
-		</table>
-		<button type="button" class="btn btn-default">Attend</button>
+		<div  class="awesome">
+			
+			<table  class="glyphicon">
+				<tr>
+					<td class="murica">
+					RandomEvent
+					</td>
+				</tr>
+				<tr class="eragon">
+					<td class="saphira">
+						EventDiscription
+					</td>
+				</tr>
+			</table>
+			<button type="button" class="btn btn-default">Attend</button>
+		
+			<br>
+		
+			<table border=5 class="glyphicon">
+				<tr>
+					<td>
+					RandomEvent
+					</td>
+				</tr>
+				<tr>
+					<td>
+					EventDiscription
+					</td>
+				</tr>
+			</table>
+			<button type="button" class="btn btn-default">Attend</button>
+		
+			<br>
+		
+			<table border=5 class="glyphicon">
+				<tr>
+					<td>
+						RandomEvent
+					</td>
+				</tr>
+				<tr>
+					<td>
+					EventDiscription
+					</td>
+				</tr>
+			</table>
+			<button type="button" class="btn btn-default">Attend</button>
+			
+		</div>
 	</body>
 </html>
 
