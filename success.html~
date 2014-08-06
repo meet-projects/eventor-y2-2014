@@ -4,6 +4,7 @@
 		<title>
 			Event Created!
 		</title>
+		<link rel="stylesheet" type="text/css" href="successStyle.css"/>
 	<body>
 		<h1> Event Successfully Created! </h1>
 		<form action= "homepage.html">

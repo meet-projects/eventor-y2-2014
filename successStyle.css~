@@ -1,0 +1,18 @@
+body {
+	background-image: url(BackG.jpg);
+}
+
+h1 {
+	color: #0B1D76;
+	font-family: "Courier 10 Pitch";
+	font-size: 60px;
+	position: absolute;
+	left: 160px;
+	top: 150px;
+}
+
+#button {
+	position: absolute;
+	left: 525px;
+	top: 290px;
+}

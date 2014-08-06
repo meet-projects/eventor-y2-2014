@@ -1,0 +1,21 @@
+.awesome{
+	margin-top:120px;
+	margin-left:120px;
+}
+td {
+	display:block;
+}
+.eragon{
+	line-height:100px;
+
+
+}
+.saphira{
+	width:300px
+	border:5px solid black;
+}
+.murica{
+	width:200px;
+	border:5px solid black;
+}
+	
