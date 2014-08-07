@@ -1,6 +1,6 @@
 body
 {
-	background-image:url(BackG.jpg);		
+	background-image:url(gradient-background-css-3.jpg);		
 } 
 ul.menu, ul.menu ul.sub-menu {
     padding:1;
@@ -66,4 +66,10 @@ display:inline-block;
 	width:90px;
 	height:60px;
 	margin-left:100px;
+}
+#hi{
+	margin-left: 550px;
+}
+.butn{
+	height: 50px;
 }
