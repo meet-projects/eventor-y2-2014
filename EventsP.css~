@@ -11,11 +11,17 @@ body{
 	display: table;
 }
 
+.buttfix{
+	display:inline;
+}
+
 .saphira{
 	width:300px;
 	height:100px;	
 }
 
-eragon{
+.eragon{
 	margin-bottom:0px;
 }
+
+

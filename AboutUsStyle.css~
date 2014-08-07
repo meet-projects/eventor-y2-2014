@@ -1,20 +1,23 @@
-body {
-	background-image: url(BackG.jpg);
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-Thin.ttf);
 }
 
+
 #title {
-	color: #0B1D76;
-	font-family: "Courier 10 Pitch";
-	font-size: 100px;
+	color: black;
+	font-family: "Roboto";
+	font-size: 50px;
 	text-align: center;
 
 }
 
 #text {
-	border-style: double;
-	font-family: "Courier 10 Pitch";
+
+	border-color: white;
+	font-family: "Roboto";
 	font-size: 25px;
-	border-width: 7px;
+	border-width: 5px;
 	position: absolute;
 	left: 20px;
 	top: 150px;
