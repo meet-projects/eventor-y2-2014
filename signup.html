@@ -4,10 +4,31 @@
 		<title> Sign Up </title>
 		<link rel="stylesheet" type="text/css" href="bootstrap.css" />
 		<link rel="stylesheet" type="text/css" href="signupstyle.css" />
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
 	</head>
 	<body>
+		<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="AboutUs.html">about us</a>
+    </div>
 
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="create.html">Create An Event</a></li>
+        <li><a href="eventsPage.html">All Events</a></li>
+	<li  class="active"><a href="signup.html">Sign-Up</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
 		<h1 class="font beg"> EVENTOR </h1>
 		<h3 class="font beg"> Create and Relate </h3>
 		<br >
@@ -16,7 +37,7 @@
 		<h3 id="h3" class="font"> Start creating and attending events today. </h3>
 		<br />
 	
-		<form action="homepage2.html" method="POST" class="form">
+		<form action="AboutUs.html" method="POST" class="form">
 
 			<p class="font"> Full name: <span><input type="text" name="Name" class="box"></span>  </p>
 			<p class="font"> Username: <span><input type="text" name="Username" id="address"></span>  </p>
