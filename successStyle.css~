@@ -1,17 +1,23 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-Thin.ttf);
+}
+
 body {
-	background-image: url(BackG.jpg);
+	background-image: url(http://www.hadewallpapers.com/wp-content/uploads/2014/04/gradient-background-css-3.jpg);
 }
 
 h1 {
-	color: #0B1D76;
-	font-family: "Courier 10 Pitch";
+	font-family: "Roboto";
 	font-size: 60px;
 	position: absolute;
-	left: 160px;
+	left: 250px;
 	top: 150px;
+	color: white;
 }
 
 #button {
+	font-family: "Roboto";
 	position: absolute;
 	left: 525px;
 	top: 290px;

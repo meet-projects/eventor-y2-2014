@@ -3,11 +3,16 @@
     src: url(Roboto-Thin.ttf);
 }
 
+body {
+	background-image: url(gradient-background-css-3.jpg);
+}
+
 
 #title {
 	color: black;
 	font-family: "Roboto";
-	font-size: 50px;
+	font-size: 60px;
+	font-weight: bold;
 	text-align: center;
 
 }
@@ -17,12 +22,15 @@
 	border-color: white;
 	font-family: "Roboto";
 	font-size: 25px;
+	font-weight: bold;
 	border-width: 5px;
 	position: absolute;
 	left: 20px;
-	top: 150px;
+	top: 200px;
 	margin-left: 30px;
 	margin-right: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	padding-left: 15px;
 	padding-right: 10px;
 }
