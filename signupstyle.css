@@ -3,9 +3,7 @@
     src: url(Roboto-Thin.ttf);
 }
 
-h2{
-	
-}
+
 .box{
 	width:233px
 }
@@ -21,13 +19,13 @@ h2{
 }
 
 #h2{
-	margin-left:500px
+	margin-left:515px
 }
 
 
 
 #h3{
-	margin-left:430px
+	margin-left:450px
 }
 
 #sign{
@@ -40,4 +38,12 @@ h2{
 
 .beg{
 	margin-left: 20px
+}
+
+body{
+background-color: rgb(255,255,255);
+}
+
+body {
+background-image: url(http://www.hadewallpapers.com/wp-content/uploads/2014/04/gradient-background-css-3.jpg);
 }
