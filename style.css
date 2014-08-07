@@ -1,4 +1,24 @@
 h1{
+<<<<<<< HEAD
+	color: #66CDAA;
+}
+p {
+	text-align: center;
+	font-family:"Times New Roman";
+	color: #CDB79E;
+}
+img{
+	display:block;
+	width: 425px;
+	height: 282px;
+	margin-left: auto;
+	margin-right:auto;
+}
+h5{
+	text-align: center;
+}
+body {background-color: #FEF5CA;}
+=======
 	color: #0BA6AF;
 	font-family: "Roboto-Light";
 	text-align: center;
@@ -45,3 +65,4 @@ body {
 }
 
 
+>>>>>>> e7fc24fbb7a703f72d137d2a408c8f6fbff5a932
