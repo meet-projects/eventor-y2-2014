@@ -7,11 +7,11 @@
 		<link rel="stylesheet" type="text/css" href="style_create.css" />
 	</head>
 	<body>
-		<h1 class="font beg"> EVENTOR </h1>
-		<h3 class="font beg"> Create and Relate </h3>
+		<h1 class="font"> EVENTOR </h1>
+		<h3 class="font"> Create and Relate </h3>
 		<br>
 		<br>
-		<h2 class="move font"> Create an event! </h2>
+		<h2 class="font" id="hi"> Create an event! </h2>
 		<form action= "">
 			<p class="font move" > Name of event  
 			<span> <input type= "text" name= event_name class="special"> </span> </p>
